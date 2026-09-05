@@ -16,6 +16,7 @@ struct ContentView: View {
             pegs(colors: [.red, .green, .green, .yellow])
         }
         
+        .padding()
         
     }
     
